@@ -1,6 +1,6 @@
 ## BUGs:
 
-If you encounter the error message from `GDCprepare` function when download the TCGA data, such as
+If you encounter error message from `GDCprepare` function when download the TCGA data, such as
 
 ```R
 GDCprepare ERROR: Error: $ operator is invalid for atomic vectors
