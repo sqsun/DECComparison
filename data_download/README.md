@@ -1,4 +1,4 @@
-Bugs:
+## BUGs:
 
 If you encounter the error message in GDCprepare function when download the TCGA data
 
